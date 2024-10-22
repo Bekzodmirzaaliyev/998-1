@@ -2,7 +2,11 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div>BEkzod Mirzaaliyev</div>
+    <div>
+      <p>Bekzodmirzaaliyev</p>
+      <p></p>
+    </div>
+
   )
 }
 

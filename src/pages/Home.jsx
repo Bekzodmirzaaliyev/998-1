@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <p>Bekzodmirzaaliyev</p>
-      <p>Дони</p>
+      <p>Дони nm</p>
     </div>
 
   )

@@ -5,6 +5,7 @@ const Home = () => {
     <div>
       <p>Bekzod mirzaaliyev</p>
       <p>Akbar</p>
+      <p>Elnora</p>
     </div>
 
   )
